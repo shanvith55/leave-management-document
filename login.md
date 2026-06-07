@@ -2,13 +2,12 @@
 
 ## Purpose
 
-Use this procedure to access the Leave Management System.
+Allows users to log in to the Leave Management System.
 
 ## Steps
 
-1. Open the LMS application.
-2. Enter your Employee ID.
-3. Enter your password.
+1. enter username.
+2. Enter password.
 4. Click **Login**.
 
 ## Result
